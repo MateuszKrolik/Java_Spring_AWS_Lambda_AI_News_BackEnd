@@ -1,0 +1,5 @@
+GET:
+    https://ov0g24c9ua.execute-api.eu-central-1.amazonaws.com/dev/api/cities
+
+POST:
+    https://ov0g24c9ua.execute-api.eu-central-1.amazonaws.com/dev/api/news
